@@ -1,0 +1,6 @@
+[package]
+name = "enums-07"
+version = "0.1.0"
+authors = ["epsimatt"]
+
+[dependencies]

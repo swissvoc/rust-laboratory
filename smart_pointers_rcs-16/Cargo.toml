@@ -1,0 +1,7 @@
+[package]
+name = "smart_pointers_rcs-16"
+version = "0.1.0"
+authors = ["epsimatt"]
+edition = "2018"
+
+[dependencies]
